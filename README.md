@@ -19,10 +19,10 @@
 <table align="center">
 <tr>
 <td valign="top">
-<img src ="https://github-readme-stats.vercel.app/api?username=kwonkabi&&show_icons=true&theme=chartreuse-dark&hide_border=true">
+<img src ="https://github-readme-stats.vercel.app/api?username=kwonkabi&&show_icons=true&theme=chartreuse-light&hide_border=true">
 </td>
 <td valign="top">
-<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kwonkabi&layout=compact&theme=chartreuse-dark&hide_border=true">
+<img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kwonkabi&layout=compact&theme=chartreuse-light&hide_border=true">
 </td>
 </tr>
 </table>
